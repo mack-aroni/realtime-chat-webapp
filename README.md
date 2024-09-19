@@ -2,8 +2,8 @@
 
 realtime-chat-webapp
 
-dependancies:
-npm install
-npm i nodemon
-npm i socket.io
-npm i express
+# Dependancies:
+npm install </br>
+npm i nodemon </br>
+npm i socket.io </br>
+npm i express </br>
